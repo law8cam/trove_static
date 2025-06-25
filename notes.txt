@@ -1,0 +1,2 @@
+http://trove.local
+https://www.troveapps.com
